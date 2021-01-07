@@ -1,7 +1,7 @@
 # Frédérique Baillais.
 _"Ne fais pas aux autres ce que tu n'aimerais pas qu'on te fasse"_.
 
-![Photo de profil](/assets/profil.jpg)
+![Photo de profil](/assets/profil.jpg =150x)
 
 ## Spontanée et pimpante, je garde la tête sur les épaules en regardant vers les étoiles.
 
