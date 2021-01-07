@@ -31,4 +31,4 @@ Je suis au travail et je discute avec une personne très âgée. Elle me dit "Al
 ### TL; DR
 Je parais plus jeune que je le suis réellement.
 
-<< [Fatiha Chaaouaou] (https://github.com/FredBail/challenge-markdown/blob/main/index.md) || Frédérique Baillais || [Frédéric Galoppin](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
+<< [Fatiha Chaaouaou](https://github.com/FredBail/challenge-markdown/blob/main/index.md) || Frédérique Baillais || [Frédéric Galoppin](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
