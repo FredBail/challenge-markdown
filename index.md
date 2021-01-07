@@ -22,8 +22,8 @@ _"Ne fais pas aux autres ce que tu n'aimerais pas qu'on te fasse"_.
   * Marche
   * Randonnée douce
 
-## Vous pouvez toujours compter sur moi lorsque
-Vous avez besoin d'explications pédagogiques, d'aide sur des sujets que je connais ou encore mettre un peu de légèreté dans des moments plus hard et être hyper organisé avec des plannings en tous genres.
+## Vous pouvez toujours compter sur moi lorsque...
+...vous avez besoin d'explications pédagogiques, d'aide sur des sujets que je connais ou encore mettre un peu de légèreté dans des moments plus hard et être hyper organisé avec des plannings en tous genres.
 
 ## Une histoire amusante
 Je suis au travail et je discute avec une personne très âgée. Elle me dit "Alors vous allez bientôt passer votre permis (auto NDLR) ?". Apparemment elle pensait que j'avais 17 ans... J'en ai 35 ans et mon permis depuis 17 ans...
