@@ -5,11 +5,13 @@ _"Ne fais pas aux autres ce que tu n'aimerais pas qu'on te fasse"_.
 
 ## Spontanée et pimpante, je garde la tête sur les épaules en regardant vers les étoiles.
 
-Anniversaire       | 07 / 09
-Sexe               | F
-Couleur préférée   | Violet #9900CC et ses déclinaisons
-Nourriture favorite| Le chocolat ! C'est la vie !
-Ananas sur pizza   | [ ] Oui / [x] Non
+| Information         | Réponse                            |
+| ------------------  | ---------------------------------- |
+| Anniversaire        | 07 / 09                            |
+| Sexe                | F                                  |
+| Couleur préférée    | Violet #9900CC et ses déclinaisons |
+| Nourriture favorite | Le chocolat ! C'est la vie !       |
+| Ananas sur pizza    | [ ] Oui   [x] Non                  |
 
 ## Hobbies
 * Minéraux
@@ -29,4 +31,4 @@ Je suis au travail et je discute avec une personne très âgée. Elle me dit "Al
 ### TL; DR
 Je parais plus jeune que je le suis réellement.
 
-<< [précédent](Nadja Agostinho) || Frédérique Baillais || [suivant](Adrien Callewaert) >>
+<< [Fatiha Chaaouaou] (https://github.com/FredBail/challenge-markdown/blob/main/index.md) || Frédérique Baillais || [Frédéric Galoppin](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
