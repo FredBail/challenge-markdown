@@ -1,4 +1,4 @@
-# Frédérique Baillais
+# [color=#9900CC]Frédérique Baillais[/color]
 _"Ne fais pas aux autres ce que tu n'aimerais pas qu'on te fasse"_.
 
 ![Photo de profil](/assets/profil.jpg)
