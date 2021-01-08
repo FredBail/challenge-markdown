@@ -11,7 +11,7 @@ _"Ne fais pas aux autres ce que tu ne voudrais pas qu'on te fasse.cd .." (Tb 4:1
 | Sexe                | F                                  |
 | Couleur préférée    | Violet #9900CC et ses déclinaisons |
 | Nourriture favorite | Le chocolat ! C'est la vie !       |
-| Ananas sur pizza    | [ ] Oui   [x] Non                  |
+| Ananas sur pizza    | <ul><li>- [ ] Oui </li><li>- [x] Non </li></ul>  |
 
 ## Hobbies
 * Minéraux
