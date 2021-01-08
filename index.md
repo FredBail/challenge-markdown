@@ -1,5 +1,5 @@
 # Frédérique Baillais
-_"Ne fais pas aux autres ce que tu ne voudrais pas qu'on te fasse" (Tb 4:15)_.
+_"Ne fais pas aux autres ce que tu ne voudrais pas qu'on te fasse." (Tb 4:15)_.
 
 ![Photo de profil](/assets/profil.jpg)
 
