@@ -28,7 +28,7 @@ _"Ne fais pas aux autres ce que tu n'aimerais pas qu'on te fasse"_.
 ## Une histoire amusante
 Je suis au travail et je discute avec une personne très âgée. Elle me dit "Alors vous allez bientôt passer votre permis (auto NDLR) ?". Apparemment elle pensait que j'avais 17 ans... J'en ai 35 ans et mon permis depuis 17 ans...
 
-### TL; DR
-Je parais plus jeune que je le suis réellement.
+#### TL; DR
+Je parais plus jeune qu'en vrai.
 
 << [Nadja Agostinho](https://github.com/FredBail/challenge-markdown/blob/main/index.md) || Frédérique Baillais || [Adrien Callewaert](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
